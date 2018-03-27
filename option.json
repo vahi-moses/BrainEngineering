@@ -1,0 +1,13 @@
+{
+	"time" : "6",
+	"n_neurons" : {
+		"cortex" : "500",
+		"striatum" : "500",
+		"GPe" : "50",
+		"GPi" : "100",
+		"STN" : "100",
+		"SNr" : "50",
+		"SNc" : "50",
+		"Thalamus" : "200"
+	}
+}
